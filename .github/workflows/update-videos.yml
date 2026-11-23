@@ -1,0 +1,67 @@
+name: Update videos & deploy site
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours (UTC)
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # commit data/videos.json back to the repo
+  pages: write      # deploy to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest videos from YouTube
+        env:
+          # Optional: add a repository secret named YOUTUBE_API_KEY to import the
+          # full upload history (and durations). Without it, the public RSS feed is used.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/update_videos.py
+
+      - name: Commit updated video list
+        run: |
+          if git diff --quiet -- data/videos.json; then
+            echo "No new videos."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/videos.json
+            git commit -m "Update video list"
+            git push
+          fi
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build pages, sitemap and structured data
+        env:
+          # Your site address. Set a repository variable SITE_URL (Settings → Secrets and
+          # variables → Actions → Variables) once you use a custom domain, e.g. https://whyitworks.tech
+          SITE_URL: ${{ vars.SITE_URL || steps.pages.outputs.base_url }}
+          CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+        run: python scripts/build_site.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

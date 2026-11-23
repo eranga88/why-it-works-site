@@ -1,0 +1,272 @@
+{
+  "channel": {
+    "id": "UCqCqSKPXFDCm9wZlIKk3stQ",
+    "handle": "HeresWhyItWorks",
+    "url": "https://www.youtube.com/@HeresWhyItWorks",
+    "subscribe_url": "https://www.youtube.com/@HeresWhyItWorks?sub_confirmation=1"
+  },
+  "topics": [
+    {
+      "key": "phone",
+      "label": "Phone tips"
+    },
+    {
+      "key": "security",
+      "label": "Security"
+    },
+    {
+      "key": "ai",
+      "label": "AI tools"
+    },
+    {
+      "key": "space",
+      "label": "Science & space"
+    },
+    {
+      "key": "budget",
+      "label": "Budget tech"
+    },
+    {
+      "key": "how",
+      "label": "How it works"
+    }
+  ],
+  "count": 15,
+  "videos": [
+    {
+      "id": "i4eSUAB2j4k",
+      "title": "How to get the most value for your old device 📈",
+      "tags": [
+        "moneytips",
+        "upgrade",
+        "tech"
+      ],
+      "published": "2026-11-23T12:00:18+00:00",
+      "description": "Learn the proper way to recycle your old phone and ensure your personal data is permanently wiped before disposal.\n\nThis breakdown outlines the professional process of trade-in and recycling for mobile devices. We explain why a mandatory check-in is required to confirm your device is not locked to an account, as restricted hardware is often destroyed rather than salvaged. Understanding these security protocols helps you prepare your device correctly.\n\nOnce a phone passes the initial security check, it undergoes a thorough data wipe, grading, and refurbishment process. By installing new parts, technicians can extend the lifespan of used equipment and keep electronic waste out of landfills. Following these steps ensures your old phone recycling is handled safely and responsibly.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever been worried about the data left on an old phone before trading it in?",
+      "type": "short",
+      "topic": "budget",
+      "views": 1,
+      "url": "https://www.youtube.com/shorts/i4eSUAB2j4k",
+      "thumbnail": "https://i.ytimg.com/vi/i4eSUAB2j4k/hqdefault.jpg",
+      "slug": "how-to-get-the-most-value-for-your-old-device"
+    },
+    {
+      "id": "HugQpDzBSx0",
+      "title": "Tech and Science Explained in Under 60 Seconds!",
+      "tags": [],
+      "published": "2026-11-23T09:28:23+00:00",
+      "description": "Get quick answers to how it works with our science breakdowns. We explain complex tech and space topics in under a minute.\n\nThis series tackles intriguing questions like whether a rocket can punch a hole in the sky. By focusing on real facts and checked sources, we strip away the jargon to help you understand the mechanics behind your phone, artificial intelligence, and space exploration.\n\nOur goal is to provide a clear explanation for every topic we cover, ensuring you walk away with a better grasp of the world around you. We prioritize accuracy and simplicity to keep you informed without the fluff.\n\nSubscribe for daily science breakdowns and let us know: what tech or space topic should we explain in our next video?",
+      "type": "video",
+      "topic": "space",
+      "views": 4,
+      "url": "https://www.youtube.com/watch?v=HugQpDzBSx0",
+      "thumbnail": "https://i.ytimg.com/vi/HugQpDzBSx0/hqdefault.jpg",
+      "slug": "tech-and-science-explained-in-under-60-seconds"
+    },
+    {
+      "id": "JSmhPYp_BaA",
+      "title": "Why You Should Never Dig Deep Holes at the Beach 🏖️",
+      "tags": [
+        "beachsafety",
+        "warning"
+      ],
+      "published": "2026-11-22T13:00:34+00:00",
+      "description": "Damp sand can collapse without warning, turning a beach day into a dangerous situation. Learn why this happens and how to stay safe.\n\nThis breakdown explains the physics behind sand hole collapses, where water films act as a glue between grains to hold a structure in place until it suddenly fails. We examine documented cases, including research citing 31 deaths, to highlight the specific risks posed to children playing in deep pits. Understanding how sand stability works is essential for anyone spending time at the beach.\n\nWhen a person is buried, especially up to the chest, the weight of the material can restrict breathing and make escape nearly impossible. Recognizing these hazards helps clarify why digging deep holes is more than just a minor risk. We look at the mechanics of these incidents to provide a clearer picture of beach safety.\n\nSubscribe for weekly science breakdowns and let us know: were you aware that the moisture content in sand could be a safety hazard?",
+      "type": "short",
+      "topic": "space",
+      "views": 985,
+      "url": "https://www.youtube.com/shorts/JSmhPYp_BaA",
+      "thumbnail": "https://i.ytimg.com/vi/JSmhPYp_BaA/hqdefault.jpg",
+      "slug": "why-you-should-never-dig-deep-holes-at-the-beach"
+    },
+    {
+      "id": "eEdPOFZDUBc",
+      "title": "mars",
+      "tags": [],
+      "published": "2026-11-22T12:00:29+00:00",
+      "description": "Learn how to photograph Mars with your phone. This tutorial shows you the settings needed to capture clear planet images.\n\nCapturing distant planets requires specific techniques to overcome common issues like blur or overexposure. By heading out an hour before sunrise and using a tripod for stability, you can effectively record Mars or Jupiter. This guide explains how to leverage night mode for 30 seconds to gather enough light for a crisp shot.\n\nWe also demonstrate how to adjust your phone brightness settings to ensure planets appear as distinct points of light rather than glowing blobs. Following these steps helps you produce high-quality space photography without needing professional camera equipment.\n\nSubscribe for weekly science breakdowns and let us know: which planet are you planning to photograph next?",
+      "type": "short",
+      "topic": "space",
+      "views": 751,
+      "url": "https://www.youtube.com/shorts/eEdPOFZDUBc",
+      "thumbnail": "https://i.ytimg.com/vi/eEdPOFZDUBc/hqdefault.jpg",
+      "slug": "mars"
+    },
+    {
+      "id": "JiYMMUiVOOE",
+      "title": "The Secret Science Saving Skyscrapers From Earthquakes 🏢",
+      "tags": [
+        "earthquake",
+        "architecture"
+      ],
+      "published": "2026-11-21T14:00:01+00:00",
+      "description": "Learn how building sway during earthquakes works by understanding the physics of rhythm and resonance in tall structures.\n\nBuildings can amplify ground movement if the shaking matches their natural frequency. This breakdown explains why resonance is a critical factor in structural safety and how engineers mitigate these risks. By analyzing how skyscrapers respond to seismic energy, we can better appreciate the complex science behind modern urban safety.\n\nTo manage this movement, engineers implement sophisticated solutions like rubber bearings and the Taipei 101 giant pendulum to dampen motion. We also examine how smartphone emergency alerts provide essential warnings during seismic events, offering a practical look at how technology keeps us informed when the ground moves.\n\nSubscribe for weekly science breakdowns and let us know: do you think current engineering designs are sufficient to withstand the largest predicted earthquakes?",
+      "type": "short",
+      "topic": "space",
+      "views": 645,
+      "url": "https://www.youtube.com/shorts/JiYMMUiVOOE",
+      "thumbnail": "https://i.ytimg.com/vi/JiYMMUiVOOE/hqdefault.jpg",
+      "slug": "the-secret-science-saving-skyscrapers-from-earthquakes"
+    },
+    {
+      "id": "hAmO1LmfPsc",
+      "title": "Why the US is stuck on iMessage 🔵",
+      "tags": [
+        "imessage",
+        "tech",
+        "usa"
+      ],
+      "published": "2026-11-21T13:00:20+00:00",
+      "description": "WhatsApp in the USA remains a niche choice despite billions of global users. Learn why American texting habits kept it at bay.\n\nWhile most of the world relies on this platform for daily communication, the American market evolved differently. This breakdown explores how early mobile billing structures and the widespread adoption of unlimited texting plans shaped consumer preferences. Because sending a message was often free or bundled into carrier contracts, the necessity for a third-party data-based app never materialized as it did internationally.\n\nWe also examine the role of iMessage in cementing these habits. By creating a seamless experience for iPhone users, Apple effectively locked in a standard that made switching to a new messaging app feel unnecessary. Later, the transition to RCS ensured that Android and iOS users could share high-quality media without needing to install separate software. Understanding these historical market forces explains why blue bubbles continue to define the landscape of mobile messaging for most Americans.\n\nSubscribe for weekly tech breakdowns and let us know: do you use WhatsApp for personal chats, or do you stick to your phone's default messaging app?",
+      "type": "short",
+      "topic": "phone",
+      "views": 453,
+      "url": "https://www.youtube.com/shorts/hAmO1LmfPsc",
+      "thumbnail": "https://i.ytimg.com/vi/hAmO1LmfPsc/hqdefault.jpg",
+      "slug": "why-the-us-is-stuck-on-imessage"
+    },
+    {
+      "id": "7rw4HlDsxTE",
+      "title": "Why you need to switch to passkeys immediately",
+      "tags": [
+        "privacy",
+        "cybersecurity"
+      ],
+      "published": "2026-11-21T12:00:38+00:00",
+      "description": "AI account hacking is a major threat that can compromise thousands of logins in hours. Learn how to protect your digital life.\n\nAutomated systems are now capable of stealing thousands of accounts in under six hours. This breakdown explains how these attacks function and the specific steps you can take to secure your identity against unauthorized access. We focus on practical defense strategies to keep your personal information private.\n\nTo effectively block account security threats, we recommend enabling passkeys to replace traditional passwords that are easily stolen. Additionally, implementing two-step verification for your email is essential, as gaining access to your inbox often gives hackers control over your other linked services. Strengthening your password security remains the most reliable way to prevent unauthorized entry.\n\nSubscribe for weekly tech breakdowns and let us know: have you already switched to passkeys, or do you still rely on traditional login methods?",
+      "type": "short",
+      "topic": "security",
+      "views": 144,
+      "url": "https://www.youtube.com/shorts/7rw4HlDsxTE",
+      "thumbnail": "https://i.ytimg.com/vi/7rw4HlDsxTE/hqdefault.jpg",
+      "slug": "why-you-need-to-switch-to-passkeys-immediately"
+    },
+    {
+      "id": "J-njw8BiN_E",
+      "title": "Outlook Is Down: The Real Story Behind the Crash",
+      "tags": [],
+      "published": "2026-11-20T16:00:08+00:00",
+      "description": "A major Microsoft outage recently disrupted services for users across 70 countries. Learn how a software bug triggered this event.\n\nThis breakdown examines the technical failure that impacted Outlook email services, resulting in over 130,000 reports on Downdetector. We analyze the sequence of five separate failures that compounded a minor July coding error, leading to widespread connectivity issues during periods of heavy traffic.\n\nUnderstanding the mechanics of this system failure provides insight into how modern cloud infrastructure handles cascading errors. By reviewing the timeline of the disruption, you can learn how complex software dependencies contribute to global service instability.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever experienced a significant service interruption with your primary email provider?",
+      "type": "video",
+      "topic": "how",
+      "views": 1,
+      "url": "https://www.youtube.com/watch?v=J-njw8BiN_E",
+      "thumbnail": "https://i.ytimg.com/vi/J-njw8BiN_E/hqdefault.jpg",
+      "slug": "outlook-is-down-the-real-story-behind-the-crash"
+    },
+    {
+      "id": "OSMvvPEYfQU",
+      "title": "Why you need to clear your storage for GTA 6 now 🚨",
+      "tags": [
+        "gta6",
+        "gaming",
+        "tech"
+      ],
+      "published": "2026-11-20T14:00:39+00:00",
+      "description": "Prepare your console for GTA 6 by checking your available storage space today. Learn how to manage your drive to ensure you have enough room for the installation.\n\nThis breakdown covers why the large file size of the upcoming game might cause download issues on PlayStation and Xbox systems. We walk through the specific steps required to check your current storage capacity so you can avoid potential errors when the game finally arrives.\n\nTo prepare, you may need to delete unused games to free up the necessary space on your console. By organizing your drive ahead of time, you can ensure a smooth experience during the initial download process. Understanding these console settings helps you manage your hardware effectively.\n\nSubscribe for weekly tech breakdowns and let us know: how much storage space do you currently have available on your console?",
+      "type": "short",
+      "topic": "phone",
+      "views": 954,
+      "url": "https://www.youtube.com/shorts/OSMvvPEYfQU",
+      "thumbnail": "https://i.ytimg.com/vi/OSMvvPEYfQU/hqdefault.jpg",
+      "slug": "why-you-need-to-clear-your-storage-for-gta-6-now"
+    },
+    {
+      "id": "6Z_nsBaKT-A",
+      "title": "Don't panic about your iPhone Duo screen",
+      "tags": [
+        "iphoneduo",
+        "appletips"
+      ],
+      "published": "2026-11-20T13:00:06+00:00",
+      "description": "Folding phone screens face unique mechanical stress. Learn how the physics of the crease allows these devices to endure.\n\nThis breakdown explains how thin glass behaves when a device is folded. By examining how the material stretches on the outside and compresses on the inside, you can see how engineering manages the physical limitations of flexible glass technology. Understanding these forces provides a clear look at how manufacturers maintain display integrity during daily use.\n\nWe also test the durability of these components through a stress test of 450,000 folds. This analysis confirms that the screen remains functional despite the repeated physical strain, offering a realistic view of how folding screen technology holds up over time. By reviewing these mechanics, you can understand how modern mobile hardware handles repeated movement without failing.\n\nSubscribe for weekly tech breakdowns and let us know: would you trust a folding phone as your primary device?",
+      "type": "short",
+      "topic": "phone",
+      "views": 1216,
+      "url": "https://www.youtube.com/shorts/6Z_nsBaKT-A",
+      "thumbnail": "https://i.ytimg.com/vi/6Z_nsBaKT-A/hqdefault.jpg",
+      "slug": "dont-panic-about-your-iphone-duo-screen"
+    },
+    {
+      "id": "GWFoWCFDUl0",
+      "title": "Why it takes 24 hours to talk to Voyager 1 📡⏳",
+      "tags": [
+        "space",
+        "nasa",
+        "sciencefacts"
+      ],
+      "published": "2026-11-20T12:34:11+00:00",
+      "description": "Voyager 1 has reached one light-day of distance from Earth. Learn how this spacecraft continues to transmit data across the void.\n\nAfter traveling over 16 billion miles since its 1977 launch, Voyager 1 has officially become the first human-made object to reach one light-day away. This milestone highlights the extreme scale of space exploration, where radio signals now require a full 24 hours to travel between the probe and our planet. Because of this massive distance, any command sent today will not be received by the spacecraft until tomorrow, with a reply taking an additional day to reach us.\n\nThis breakdown covers the current status of deep space communication and the technical reality of managing a probe in interstellar space. By examining the physics of signal latency, you can understand how mission controllers maintain contact with equipment that exists on the edge of our solar system.\n\nSubscribe for weekly science breakdowns and let us know: what do you think will be the next major milestone for the Voyager mission?",
+      "type": "short",
+      "topic": "space",
+      "views": 163,
+      "url": "https://www.youtube.com/shorts/GWFoWCFDUl0",
+      "thumbnail": "https://i.ytimg.com/vi/GWFoWCFDUl0/hqdefault.jpg",
+      "slug": "why-it-takes-24-hours-to-talk-to-voyager-1"
+    },
+    {
+      "id": "W62LdQ0qIVI",
+      "title": "Why rockets don't need air to fly",
+      "tags": [
+        "space",
+        "science",
+        "physics"
+      ],
+      "published": "2026-11-19T15:00:33+00:00",
+      "description": "Ever wonder how a rocket works? Learn how they use liquid oxygen and high-speed exhaust to move through the vacuum of space.\n\nRockets do not push against air to move. Instead, they operate by expelling gas at extreme speeds, a process that explains basic space propulsion. Since space lacks oxygen, every rocket must carry its own supply of super-cooled liquid oxygen to burn fuel at high temperatures.\n\nThe resulting gas is forced through a nozzle at over 10,000 km/h. This intense force creates the thrust needed for space travel, regardless of the lack of atmosphere. Understanding rocket science principles helps clarify why these machines are built with such specialized fuel systems.\n\nWhich part of the launch process surprised you? Comment below.\n📺 Playlist: Science Explained",
+      "type": "short",
+      "topic": "space",
+      "views": 954,
+      "url": "https://www.youtube.com/shorts/W62LdQ0qIVI",
+      "thumbnail": "https://i.ytimg.com/vi/W62LdQ0qIVI/hqdefault.jpg",
+      "slug": "why-rockets-dont-need-air-to-fly"
+    },
+    {
+      "id": "zYqiVcLGH1M",
+      "title": "Did a spy really take down NVIDIA?",
+      "tags": [
+        "ai",
+        "scandal",
+        "nvidia"
+      ],
+      "published": "2026-11-19T14:00:08+00:00",
+      "description": "NVIDIA CEO Jensen Huang has resigned following the admission of an affair with a suspected Chinese spy. Learn how this executive scandal triggered a massive market shift.\n\nFollowing the announcement on November 12, 2026, NVIDIA saw its market value drop by over $740 billion as investors reacted to the news. While the board stated that no company secrets were compromised during the relationship, the departure of the long-time leader has created immediate uncertainty for the technology giant. Colette Kress has stepped in as interim CEO while the board begins the search for a permanent successor to navigate this difficult transition.\n\nThis breakdown covers the key events surrounding the NVIDIA CEO resignation and the broader financial implications for shareholders. By analyzing the timeline of events and the board's response, you can understand how leadership stability impacts stock market performance. We also examine the role of the interim leadership team as they work to maintain operations during this period of high volatility.\n\nSubscribe for weekly tech breakdowns and let us know: how do you think this leadership change will affect the future of the company?",
+      "type": "short",
+      "topic": "security",
+      "views": 205,
+      "url": "https://www.youtube.com/shorts/zYqiVcLGH1M",
+      "thumbnail": "https://i.ytimg.com/vi/zYqiVcLGH1M/hqdefault.jpg",
+      "slug": "did-a-spy-really-take-down-nvidia"
+    },
+    {
+      "id": "t7HUbQrMDCI",
+      "title": "Android vs iPhone: Which One Are You Actually Choosing? 🤔",
+      "tags": [
+        "comparison",
+        "tech"
+      ],
+      "published": "2026-11-19T13:00:14+00:00",
+      "description": "Choosing between iOS and Android is a major decision. This breakdown helps you determine which mobile platform fits your needs.\n\nThis comparison explains the core differences between these operating systems, starting with availability. iOS remains exclusive to Apple hardware, while Android powers a wide range of devices from manufacturers like Samsung and Pixel. This difference in ecosystem control directly impacts the price range you can expect to pay for a new handset.\n\nBeyond hardware, we examine how app sources, update policies, and texting features vary between the two platforms. Understanding these technical distinctions allows you to decide which interface and support model aligns best with your daily habits. By evaluating these key factors, you can make an informed choice when selecting your next phone.\n\nSubscribe for weekly tech breakdowns and let us know: are you firmly committed to your current mobile operating system, or are you considering a switch?",
+      "type": "short",
+      "topic": "phone",
+      "views": 1083,
+      "url": "https://www.youtube.com/shorts/t7HUbQrMDCI",
+      "thumbnail": "https://i.ytimg.com/vi/t7HUbQrMDCI/hqdefault.jpg",
+      "slug": "android-vs-iphone-which-one-are-you-actually-choosing"
+    },
+    {
+      "id": "4De_KtUGepk",
+      "title": "You’re Time Traveling Right Now. Here’s the Proof",
+      "tags": [],
+      "published": "2026-11-19T12:00:26+00:00",
+      "description": "Time travel is not just science fiction. Learn how speed and gravity impact the flow of time and the reality of physics.\n\nThis breakdown explains the five levels of time travel, starting with the time dilation observed in GPS systems and individual experiences. We examine how velocity and gravity alter our perception of time, referencing experiments involving airplanes and muons in the atmosphere to ground these concepts in physical evidence.\n\nWe also address the theoretical possibility of backward time travel by reviewing Stephen Hawking's party experiment. Understanding these principles clarifies the limits of current scientific knowledge regarding temporal movement. Whether you are interested in relativity or the mechanics of the universe, this overview provides a clear look at how we measure and experience time.\n\nSubscribe for weekly physics breakdowns and let us know: do you think humanity will ever achieve the ability to travel through time?",
+      "type": "video",
+      "topic": "space",
+      "views": 209,
+      "url": "https://www.youtube.com/watch?v=4De_KtUGepk",
+      "thumbnail": "https://i.ytimg.com/vi/4De_KtUGepk/hqdefault.jpg",
+      "slug": "youre-time-traveling-right-now-heres-the-proof"
+    }
+  ],
+  "updated": "2026-11-23T12:45:02+00:00"
+}
