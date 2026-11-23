@@ -87,7 +87,7 @@
       "description": "Learn how to photograph Mars with your phone. This tutorial shows you the settings needed to capture clear planet images.\n\nCapturing distant planets requires specific techniques to overcome common issues like blur or overexposure. By heading out an hour before sunrise and using a tripod for stability, you can effectively record Mars or Jupiter. This guide explains how to leverage night mode for 30 seconds to gather enough light for a crisp shot.\n\nWe also demonstrate how to adjust your phone brightness settings to ensure planets appear as distinct points of light rather than glowing blobs. Following these steps helps you produce high-quality space photography without needing professional camera equipment.\n\nSubscribe for weekly science breakdowns and let us know: which planet are you planning to photograph next?",
       "type": "short",
       "topic": "space",
-      "views": 751,
+      "views": 738,
       "url": "https://www.youtube.com/shorts/eEdPOFZDUBc",
       "thumbnail": "https://i.ytimg.com/vi/eEdPOFZDUBc/hqdefault.jpg",
       "slug": "mars"
@@ -103,7 +103,7 @@
       "description": "Learn how building sway during earthquakes works by understanding the physics of rhythm and resonance in tall structures.\n\nBuildings can amplify ground movement if the shaking matches their natural frequency. This breakdown explains why resonance is a critical factor in structural safety and how engineers mitigate these risks. By analyzing how skyscrapers respond to seismic energy, we can better appreciate the complex science behind modern urban safety.\n\nTo manage this movement, engineers implement sophisticated solutions like rubber bearings and the Taipei 101 giant pendulum to dampen motion. We also examine how smartphone emergency alerts provide essential warnings during seismic events, offering a practical look at how technology keeps us informed when the ground moves.\n\nSubscribe for weekly science breakdowns and let us know: do you think current engineering designs are sufficient to withstand the largest predicted earthquakes?",
       "type": "short",
       "topic": "space",
-      "views": 645,
+      "views": 643,
       "url": "https://www.youtube.com/shorts/JiYMMUiVOOE",
       "thumbnail": "https://i.ytimg.com/vi/JiYMMUiVOOE/hqdefault.jpg",
       "slug": "the-secret-science-saving-skyscrapers-from-earthquakes"
@@ -120,7 +120,7 @@
       "description": "WhatsApp in the USA remains a niche choice despite billions of global users. Learn why American texting habits kept it at bay.\n\nWhile most of the world relies on this platform for daily communication, the American market evolved differently. This breakdown explores how early mobile billing structures and the widespread adoption of unlimited texting plans shaped consumer preferences. Because sending a message was often free or bundled into carrier contracts, the necessity for a third-party data-based app never materialized as it did internationally.\n\nWe also examine the role of iMessage in cementing these habits. By creating a seamless experience for iPhone users, Apple effectively locked in a standard that made switching to a new messaging app feel unnecessary. Later, the transition to RCS ensured that Android and iOS users could share high-quality media without needing to install separate software. Understanding these historical market forces explains why blue bubbles continue to define the landscape of mobile messaging for most Americans.\n\nSubscribe for weekly tech breakdowns and let us know: do you use WhatsApp for personal chats, or do you stick to your phone's default messaging app?",
       "type": "short",
       "topic": "phone",
-      "views": 453,
+      "views": 454,
       "url": "https://www.youtube.com/shorts/hAmO1LmfPsc",
       "thumbnail": "https://i.ytimg.com/vi/hAmO1LmfPsc/hqdefault.jpg",
       "slug": "why-the-us-is-stuck-on-imessage"
@@ -136,7 +136,7 @@
       "description": "AI account hacking is a major threat that can compromise thousands of logins in hours. Learn how to protect your digital life.\n\nAutomated systems are now capable of stealing thousands of accounts in under six hours. This breakdown explains how these attacks function and the specific steps you can take to secure your identity against unauthorized access. We focus on practical defense strategies to keep your personal information private.\n\nTo effectively block account security threats, we recommend enabling passkeys to replace traditional passwords that are easily stolen. Additionally, implementing two-step verification for your email is essential, as gaining access to your inbox often gives hackers control over your other linked services. Strengthening your password security remains the most reliable way to prevent unauthorized entry.\n\nSubscribe for weekly tech breakdowns and let us know: have you already switched to passkeys, or do you still rely on traditional login methods?",
       "type": "short",
       "topic": "security",
-      "views": 144,
+      "views": 135,
       "url": "https://www.youtube.com/shorts/7rw4HlDsxTE",
       "thumbnail": "https://i.ytimg.com/vi/7rw4HlDsxTE/hqdefault.jpg",
       "slug": "why-you-need-to-switch-to-passkeys-immediately"
@@ -182,7 +182,7 @@
       "description": "Folding phone screens face unique mechanical stress. Learn how the physics of the crease allows these devices to endure.\n\nThis breakdown explains how thin glass behaves when a device is folded. By examining how the material stretches on the outside and compresses on the inside, you can see how engineering manages the physical limitations of flexible glass technology. Understanding these forces provides a clear look at how manufacturers maintain display integrity during daily use.\n\nWe also test the durability of these components through a stress test of 450,000 folds. This analysis confirms that the screen remains functional despite the repeated physical strain, offering a realistic view of how folding screen technology holds up over time. By reviewing these mechanics, you can understand how modern mobile hardware handles repeated movement without failing.\n\nSubscribe for weekly tech breakdowns and let us know: would you trust a folding phone as your primary device?",
       "type": "short",
       "topic": "phone",
-      "views": 1216,
+      "views": 1212,
       "url": "https://www.youtube.com/shorts/6Z_nsBaKT-A",
       "thumbnail": "https://i.ytimg.com/vi/6Z_nsBaKT-A/hqdefault.jpg",
       "slug": "dont-panic-about-your-iphone-duo-screen"
@@ -268,5 +268,5 @@
       "slug": "youre-time-traveling-right-now-heres-the-proof"
     }
   ],
-  "updated": "2026-11-23T12:45:02+00:00"
+  "updated": "2026-11-23T12:53:10+00:00"
 }
