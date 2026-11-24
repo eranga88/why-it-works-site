@@ -31,8 +31,40 @@
       "label": "How it works"
     }
   ],
-  "count": 22,
+  "count": 24,
   "videos": [
+    {
+      "id": "qrf6I6H5ZPo",
+      "title": "Does AI really drink more water than you? 💧",
+      "tags": [
+        "ai",
+        "facts"
+      ],
+      "published": "2026-11-24T13:00:36+00:00",
+      "description": "AI data centers require massive amounts of water to keep their hardware cool. Learn how this infrastructure impacts local resources.\n\nModern artificial intelligence relies on thousands of high-performance chips that generate intense heat during operation. To prevent overheating, these facilities utilize cooling systems that evaporate water, similar to how sweat regulates human body temperature. This process is essential for maintaining server stability but creates a significant demand on utility infrastructure.\n\nLarge-scale AI data centers can consume up to 5 million gallons of water daily, a volume comparable to the needs of a town with 50,000 residents. This breakdown examines the environmental footprint of cloud computing and how the growth of machine learning models affects regional water usage. Understanding these hidden costs helps clarify the sustainability challenges facing the tech industry as hardware density continues to increase.\n\nSubscribe for weekly tech breakdowns and let us know: were you aware of the environmental resources required to power modern AI models?",
+      "type": "short",
+      "topic": "ai",
+      "views": 1,
+      "url": "https://www.youtube.com/shorts/qrf6I6H5ZPo",
+      "thumbnail": "https://i.ytimg.com/vi/qrf6I6H5ZPo/hqdefault.jpg",
+      "slug": "does-ai-really-drink-more-water-than-you"
+    },
+    {
+      "id": "BJWenVruCd4",
+      "title": "The AI That Finds Cures Faster Than Any Human",
+      "tags": [
+        "ai",
+        "science"
+      ],
+      "published": "2026-11-24T12:00:14+00:00",
+      "description": "",
+      "type": "short",
+      "topic": "ai",
+      "views": 0,
+      "url": "https://www.youtube.com/shorts/BJWenVruCd4",
+      "thumbnail": "https://i.ytimg.com/vi/BJWenVruCd4/hqdefault.jpg",
+      "slug": "the-ai-that-finds-cures-faster-than-any-human"
+    },
     {
       "id": "BEjc7G7YlLY",
       "title": "Why we’re stuck in our own solar system",
@@ -44,7 +76,7 @@
       "description": "Exploring exoplanets reveals millions of potentially habitable worlds, but reaching them presents massive technical hurdles.\n\nOur galaxy contains up to 300 million rocky worlds that could support life. This breakdown examines the harsh reality of interstellar travel, focusing on the immense distances between stars and the staggering amount of fuel required for such missions. We also analyze the biological toll that long-term space travel takes on the human body, explaining why current technology remains insufficient for deep space exploration.\n\nDespite these challenges, researchers are looking into innovative solutions like light sails to achieve higher speeds. By understanding the physics of propulsion and the limitations of our current spacecraft, we gain a clearer picture of what it would actually take to leave our solar system. Navigating the vastness of space requires overcoming both engineering barriers and the physiological constraints of our own biology.\n\nSubscribe for weekly science breakdowns and let us know: do you think humanity will develop the technology to visit another star system within the next century?",
       "type": "short",
       "topic": "space",
-      "views": 1,
+      "views": 156,
       "url": "https://www.youtube.com/shorts/BEjc7G7YlLY",
       "thumbnail": "https://i.ytimg.com/vi/BEjc7G7YlLY/hqdefault.jpg",
       "slug": "why-were-stuck-in-our-own-solar-system"
@@ -61,7 +93,7 @@
       "description": "Underwater data centers could change how we cool servers. Learn how Microsoft successfully submerged hardware to improve efficiency.\n\nIn 2018, Microsoft deployed 864 servers into the ocean off the coast of Scotland to test a radical approach to thermal management. This project aimed to solve the cooling challenges faced by land-based facilities, which often require significant energy and resources to maintain optimal temperatures. By leveraging the natural cold of the deep sea, the team sought to see if underwater data centers could operate more reliably than those in traditional environments.\n\nAfter two years of testing, the results showed that servers submerged in the ocean failed at a significantly lower rate than their counterparts on land. This breakdown explains the engineering success of this experiment and how the findings are currently being applied to improve modern server infrastructure. By analyzing the performance of this submerged hardware, we can better understand the future of sustainable cooling solutions for global cloud networks.\n\nSubscribe for weekly tech breakdowns and let us know: would you trust your personal data to be stored in an underwater facility?",
       "type": "short",
       "topic": "space",
-      "views": 3,
+      "views": 14,
       "url": "https://www.youtube.com/shorts/EALpgZCoTHo",
       "thumbnail": "https://i.ytimg.com/vi/EALpgZCoTHo/hqdefault.jpg",
       "slug": "what-happens-when-you-sink-a-server-farm"
@@ -77,7 +109,7 @@
       "description": "Common lightning myths are often dangerous. Learn the actual physics behind electrical storms to stay safe when weather turns.\n\nMany people believe that phones act as magnets for a strike, but this is only true if they are plugged into a wall outlet. We examine why common advice like crouching on the ground or relying on rubber tires for protection in a car is scientifically inaccurate. Understanding these misconceptions is essential for anyone who spends time outdoors.\n\nInstead of relying on outdated tips, focus on seeking shelter in a sturdy building or a fully enclosed metal vehicle. While the metal structure of a car provides safety by directing current around the exterior, it is not the tires that insulate you from the ground. By debunking these lightning myths, we can better prepare for severe weather events and avoid harmful behaviors.\n\nSubscribe for weekly science breakdowns and let us know: have you ever been taught safety advice that turned out to be incorrect?",
       "type": "short",
       "topic": "space",
-      "views": 16,
+      "views": 49,
       "url": "https://www.youtube.com/shorts/rtVfK1T0YXk",
       "thumbnail": "https://i.ytimg.com/vi/rtVfK1T0YXk/hqdefault.jpg",
       "slug": "why-rubber-tires-wont-save-you-from-lightning"
@@ -94,7 +126,7 @@
       "description": "Most of the internet travels through undersea cables, not satellites. Learn how these massive data lines stay connected globally.\n\nWhile we often assume data moves through the air, 99% of intercontinental traffic relies on physical infrastructure deep beneath the ocean. This breakdown explains how these cables function and why they are vital to global connectivity. We look at the actual risks to this network, moving beyond the myth of shark attacks to identify the real threats posed by commercial shipping traffic.\n\nWhen these undersea cables suffer damage, specialized repair ships are deployed to locate and fix the breaks in the seafloor. Understanding the maintenance of this subsea infrastructure provides a clearer picture of how modern communication remains stable despite constant environmental hazards. By analyzing the lifecycle of these lines, you can appreciate the engineering required to keep the world online.\n\nSubscribe for weekly tech breakdowns and let us know: were you surprised to learn that satellites handle such a small fraction of our global data?",
       "type": "short",
       "topic": "space",
-      "views": 39,
+      "views": 49,
       "url": "https://www.youtube.com/shorts/zqbXwRGnIIM",
       "thumbnail": "https://i.ytimg.com/vi/zqbXwRGnIIM/hqdefault.jpg",
       "slug": "why-your-internet-depends-on-these-tiny-cables"
@@ -111,7 +143,7 @@
       "description": "Telepathy remains in the realm of science fiction, but real technological progress is starting to change how we connect.\n\nWhile traditional psychic abilities lack scientific evidence, researchers are actively pursuing brain-to-brain communication. This breakdown examines the evolution of these experiments, from a 2013 study where thoughts controlled finger movements to a 2019 trial that successfully linked three human brains. We analyze how these milestones represent the current ceiling of our understanding.\n\nWe also look at the role of brain implants in facilitating these connections. As companies like Neuralink push toward clinical applications, we explore the ethical and practical questions surrounding the integration of a brain chip into daily life. Understanding these developments helps clarify the gap between current neural technology and the futuristic concept of true telepathy.\n\nSubscribe for weekly tech breakdowns and let us know: would you ever consider getting a brain chip if it offered a direct way to communicate with others?",
       "type": "short",
       "topic": "space",
-      "views": 90,
+      "views": 127,
       "url": "https://www.youtube.com/shorts/yG1RZqK5unA",
       "thumbnail": "https://i.ytimg.com/vi/yG1RZqK5unA/hqdefault.jpg",
       "slug": "would-you-get-a-brain-chip"
@@ -127,7 +159,7 @@
       "description": "AI scams are evolving rapidly, ranging from deceptive trading bots to sophisticated voice cloning. Learn how to protect yourself.\n\nThis breakdown ranks the most dangerous threats currently circulating online, from fake apps to perfect phishing emails. We analyze the mechanics behind these tactics so you can identify potential risks before they compromise your security. Understanding how attackers operate is the first step in defending your digital life against these modern schemes.\n\nTo stay safe, implement practical safeguards like establishing a family safe word and verifying the identity of anyone making urgent financial requests. By learning to spot these common ai scams, you can prevent unauthorized access to your accounts and sensitive personal information. We focus on actionable defense strategies that help you remain vigilant in an increasingly complex digital landscape.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever received a suspicious call or message that you suspect was generated by artificial intelligence?",
       "type": "short",
       "topic": "security",
-      "views": 9,
+      "views": 1041,
       "url": "https://www.youtube.com/shorts/FUv_32aiFUo",
       "thumbnail": "https://i.ytimg.com/vi/FUv_32aiFUo/hqdefault.jpg",
       "slug": "the-most-dangerous-ai-scam-you-need-to-avoid"
@@ -143,7 +175,7 @@
       "description": "NASA Voyager 1 began sending back gibberish data from deep space. Learn how engineers fixed the probe using remote code.\n\nIn November 2023, the Voyager 1 spacecraft started transmitting unreadable signals from over 15 billion miles away. This breakdown explains how a critical computer chip failure threatened the mission and the unconventional engineering process used to restore communication. By rerouting code into unused memory, the team successfully brought the probe back to life.\n\nWe examine the technical hurdles of managing deep space communication when hardware is physically impossible to repair. The project highlights how software ingenuity can overcome aging equipment issues to keep science instruments operational. Understanding these remote troubleshooting methods provides a unique look at how we maintain long-range space exploration technology.\n\nSubscribe for weekly science breakdowns and let us know: are you surprised that NASA could fix a spacecraft from the 1970s using only software updates?",
       "type": "short",
       "topic": "space",
-      "views": 9,
+      "views": 10,
       "url": "https://www.youtube.com/shorts/GQmG-DagSjE",
       "thumbnail": "https://i.ytimg.com/vi/GQmG-DagSjE/hqdefault.jpg",
       "slug": "how-to-fix-a-machine-15-billion-miles-away"
@@ -160,7 +192,7 @@
       "description": "Learn the proper way to recycle your old phone and ensure your personal data is permanently wiped before disposal.\n\nThis breakdown outlines the professional process of trade-in and recycling for mobile devices. We explain why a mandatory check-in is required to confirm your device is not locked to an account, as restricted hardware is often destroyed rather than salvaged. Understanding these security protocols helps you prepare your device correctly.\n\nOnce a phone passes the initial security check, it undergoes a thorough data wipe, grading, and refurbishment process. By installing new parts, technicians can extend the lifespan of used equipment and keep electronic waste out of landfills. Following these steps ensures your old phone recycling is handled safely and responsibly.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever been worried about the data left on an old phone before trading it in?",
       "type": "short",
       "topic": "budget",
-      "views": 18,
+      "views": 19,
       "url": "https://www.youtube.com/shorts/i4eSUAB2j4k",
       "thumbnail": "https://i.ytimg.com/vi/i4eSUAB2j4k/hqdefault.jpg",
       "slug": "how-to-get-the-most-value-for-your-old-device"
@@ -173,7 +205,7 @@
       "description": "Get quick answers to how it works with our science breakdowns. We explain complex tech and space topics in under a minute.\n\nThis series tackles intriguing questions like whether a rocket can punch a hole in the sky. By focusing on real facts and checked sources, we strip away the jargon to help you understand the mechanics behind your phone, artificial intelligence, and space exploration.\n\nOur goal is to provide a clear explanation for every topic we cover, ensuring you walk away with a better grasp of the world around you. We prioritize accuracy and simplicity to keep you informed without the fluff.\n\nSubscribe for daily science breakdowns and let us know: what tech or space topic should we explain in our next video?",
       "type": "video",
       "topic": "space",
-      "views": 8,
+      "views": 9,
       "url": "https://www.youtube.com/watch?v=HugQpDzBSx0",
       "thumbnail": "https://i.ytimg.com/vi/HugQpDzBSx0/hqdefault.jpg",
       "slug": "tech-and-science-explained-in-under-60-seconds"
@@ -189,7 +221,7 @@
       "description": "Damp sand can collapse without warning, turning a beach day into a dangerous situation. Learn why this happens and how to stay safe.\n\nThis breakdown explains the physics behind sand hole collapses, where water films act as a glue between grains to hold a structure in place until it suddenly fails. We examine documented cases, including research citing 31 deaths, to highlight the specific risks posed to children playing in deep pits. Understanding how sand stability works is essential for anyone spending time at the beach.\n\nWhen a person is buried, especially up to the chest, the weight of the material can restrict breathing and make escape nearly impossible. Recognizing these hazards helps clarify why digging deep holes is more than just a minor risk. We look at the mechanics of these incidents to provide a clearer picture of beach safety.\n\nSubscribe for weekly science breakdowns and let us know: were you aware that the moisture content in sand could be a safety hazard?",
       "type": "short",
       "topic": "space",
-      "views": 1001,
+      "views": 1006,
       "url": "https://www.youtube.com/shorts/JSmhPYp_BaA",
       "thumbnail": "https://i.ytimg.com/vi/JSmhPYp_BaA/hqdefault.jpg",
       "slug": "why-you-should-never-dig-deep-holes-at-the-beach"
@@ -202,7 +234,7 @@
       "description": "Learn how to photograph Mars with your phone. This tutorial shows you the settings needed to capture clear planet images.\n\nCapturing distant planets requires specific techniques to overcome common issues like blur or overexposure. By heading out an hour before sunrise and using a tripod for stability, you can effectively record Mars or Jupiter. This guide explains how to leverage night mode for 30 seconds to gather enough light for a crisp shot.\n\nWe also demonstrate how to adjust your phone brightness settings to ensure planets appear as distinct points of light rather than glowing blobs. Following these steps helps you produce high-quality space photography without needing professional camera equipment.\n\nSubscribe for weekly science breakdowns and let us know: which planet are you planning to photograph next?",
       "type": "short",
       "topic": "space",
-      "views": 843,
+      "views": 857,
       "url": "https://www.youtube.com/shorts/eEdPOFZDUBc",
       "thumbnail": "https://i.ytimg.com/vi/eEdPOFZDUBc/hqdefault.jpg",
       "slug": "mars"
@@ -218,7 +250,7 @@
       "description": "Learn how building sway during earthquakes works by understanding the physics of rhythm and resonance in tall structures.\n\nBuildings can amplify ground movement if the shaking matches their natural frequency. This breakdown explains why resonance is a critical factor in structural safety and how engineers mitigate these risks. By analyzing how skyscrapers respond to seismic energy, we can better appreciate the complex science behind modern urban safety.\n\nTo manage this movement, engineers implement sophisticated solutions like rubber bearings and the Taipei 101 giant pendulum to dampen motion. We also examine how smartphone emergency alerts provide essential warnings during seismic events, offering a practical look at how technology keeps us informed when the ground moves.\n\nSubscribe for weekly science breakdowns and let us know: do you think current engineering designs are sufficient to withstand the largest predicted earthquakes?",
       "type": "short",
       "topic": "space",
-      "views": 775,
+      "views": 778,
       "url": "https://www.youtube.com/shorts/JiYMMUiVOOE",
       "thumbnail": "https://i.ytimg.com/vi/JiYMMUiVOOE/hqdefault.jpg",
       "slug": "the-secret-science-saving-skyscrapers-from-earthquakes"
@@ -383,5 +415,5 @@
       "slug": "youre-time-traveling-right-now-heres-the-proof"
     }
   ],
-  "updated": "2026-11-24T02:14:32+00:00"
+  "updated": "2026-11-24T13:45:45+00:00"
 }
