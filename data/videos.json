@@ -31,8 +31,25 @@
       "label": "How it works"
     }
   ],
-  "count": 29,
+  "count": 30,
   "videos": [
+    {
+      "id": "qLKk7Dq6NYQ",
+      "title": "What happens when a self-driving car gets confused? ⚠️🤖",
+      "tags": [
+        "autonomous",
+        "safety",
+        "cars"
+      ],
+      "published": "2026-11-27T12:00:30+00:00",
+      "description": "Driverless car technology relies on a precise fusion of sensors to navigate safely. Learn how these vehicles see the world.\n\nThis breakdown explains how a driverless car perceives its surroundings by coordinating data from cameras, LiDAR, and radar. By integrating information from these three distinct sources, the vehicle can accurately detect traffic lights, signs, lane lines, and obstacles. This system ensures the car maintains a clear understanding of its environment, even when operating in adverse weather conditions.\n\nWe examine how the combined input from these systems creates a reliable model of the road. Understanding the mechanics of how a driverless car identifies hazards provides a clearer picture of the current state of autonomous safety and navigation.\n\nSubscribe for weekly tech breakdowns and let us know: would you feel comfortable riding in a vehicle that relies entirely on sensor data to navigate?",
+      "type": "short",
+      "topic": "how",
+      "views": 2,
+      "url": "https://www.youtube.com/shorts/qLKk7Dq6NYQ",
+      "thumbnail": "https://i.ytimg.com/vi/qLKk7Dq6NYQ/hqdefault.jpg",
+      "slug": "what-happens-when-a-self-driving-car-gets-confused"
+    },
     {
       "id": "voK8pX5JDUg",
       "title": "Why You're Really Tired After Dinner 🍽️😴",
@@ -44,7 +61,7 @@
       "description": "Does eating turkey make you sleepy? We explain the science behind your post-meal nap and how to stay alert this holiday.\n\nMany people blame tryptophan for their post-meal drowsiness, but the truth is more complex. While this amino acid is present in poultry, it has to compete with other amino acids to reach the brain. This breakdown examines why the actual cause of that heavy feeling is often the large quantity of food, particularly carbohydrates, consumed during a big feast.\n\nTo avoid the mid-afternoon slump, we suggest focusing on smaller portions rather than avoiding specific proteins. Understanding how your body processes large meals can help you maintain your energy levels throughout the day. By managing your intake, you can enjoy the holiday meal without the immediate urge to head for the couch.\n\nSubscribe for weekly science breakdowns and let us know: do you usually feel tired after a large meal, or do you have a trick to stay awake?",
       "type": "short",
       "topic": "space",
-      "views": 20,
+      "views": 28,
       "url": "https://www.youtube.com/shorts/voK8pX5JDUg",
       "thumbnail": "https://i.ytimg.com/vi/voK8pX5JDUg/hqdefault.jpg",
       "slug": "why-youre-really-tired-after-dinner"
@@ -178,7 +195,7 @@
       "description": "Underwater data centers could change how we cool servers. Learn how Microsoft successfully submerged hardware to improve efficiency.\n\nIn 2018, Microsoft deployed 864 servers into the ocean off the coast of Scotland to test a radical approach to thermal management. This project aimed to solve the cooling challenges faced by land-based facilities, which often require significant energy and resources to maintain optimal temperatures. By leveraging the natural cold of the deep sea, the team sought to see if underwater data centers could operate more reliably than those in traditional environments.\n\nAfter two years of testing, the results showed that servers submerged in the ocean failed at a significantly lower rate than their counterparts on land. This breakdown explains the engineering success of this experiment and how the findings are currently being applied to improve modern server infrastructure. By analyzing the performance of this submerged hardware, we can better understand the future of sustainable cooling solutions for global cloud networks.\n\nSubscribe for weekly tech breakdowns and let us know: would you trust your personal data to be stored in an underwater facility?",
       "type": "short",
       "topic": "space",
-      "views": 68,
+      "views": 70,
       "url": "https://www.youtube.com/shorts/EALpgZCoTHo",
       "thumbnail": "https://i.ytimg.com/vi/EALpgZCoTHo/hqdefault.jpg",
       "slug": "what-happens-when-you-sink-a-server-farm"
@@ -194,7 +211,7 @@
       "description": "Common lightning myths are often dangerous. Learn the actual physics behind electrical storms to stay safe when weather turns.\n\nMany people believe that phones act as magnets for a strike, but this is only true if they are plugged into a wall outlet. We examine why common advice like crouching on the ground or relying on rubber tires for protection in a car is scientifically inaccurate. Understanding these misconceptions is essential for anyone who spends time outdoors.\n\nInstead of relying on outdated tips, focus on seeking shelter in a sturdy building or a fully enclosed metal vehicle. While the metal structure of a car provides safety by directing current around the exterior, it is not the tires that insulate you from the ground. By debunking these lightning myths, we can better prepare for severe weather events and avoid harmful behaviors.\n\nSubscribe for weekly science breakdowns and let us know: have you ever been taught safety advice that turned out to be incorrect?",
       "type": "short",
       "topic": "space",
-      "views": 158,
+      "views": 182,
       "url": "https://www.youtube.com/shorts/rtVfK1T0YXk",
       "thumbnail": "https://i.ytimg.com/vi/rtVfK1T0YXk/hqdefault.jpg",
       "slug": "why-rubber-tires-wont-save-you-from-lightning"
@@ -244,7 +261,7 @@
       "description": "AI scams are evolving rapidly, ranging from deceptive trading bots to sophisticated voice cloning. Learn how to protect yourself.\n\nThis breakdown ranks the most dangerous threats currently circulating online, from fake apps to perfect phishing emails. We analyze the mechanics behind these tactics so you can identify potential risks before they compromise your security. Understanding how attackers operate is the first step in defending your digital life against these modern schemes.\n\nTo stay safe, implement practical safeguards like establishing a family safe word and verifying the identity of anyone making urgent financial requests. By learning to spot these common ai scams, you can prevent unauthorized access to your accounts and sensitive personal information. We focus on actionable defense strategies that help you remain vigilant in an increasingly complex digital landscape.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever received a suspicious call or message that you suspect was generated by artificial intelligence?",
       "type": "short",
       "topic": "security",
-      "views": 1534,
+      "views": 1596,
       "url": "https://www.youtube.com/shorts/FUv_32aiFUo",
       "thumbnail": "https://i.ytimg.com/vi/FUv_32aiFUo/hqdefault.jpg",
       "slug": "the-most-dangerous-ai-scam-you-need-to-avoid"
@@ -260,7 +277,7 @@
       "description": "NASA Voyager 1 began sending back gibberish data from deep space. Learn how engineers fixed the probe using remote code.\n\nIn November 2023, the Voyager 1 spacecraft started transmitting unreadable signals from over 15 billion miles away. This breakdown explains how a critical computer chip failure threatened the mission and the unconventional engineering process used to restore communication. By rerouting code into unused memory, the team successfully brought the probe back to life.\n\nWe examine the technical hurdles of managing deep space communication when hardware is physically impossible to repair. The project highlights how software ingenuity can overcome aging equipment issues to keep science instruments operational. Understanding these remote troubleshooting methods provides a unique look at how we maintain long-range space exploration technology.\n\nSubscribe for weekly science breakdowns and let us know: are you surprised that NASA could fix a spacecraft from the 1970s using only software updates?",
       "type": "short",
       "topic": "space",
-      "views": 17,
+      "views": 18,
       "url": "https://www.youtube.com/shorts/GQmG-DagSjE",
       "thumbnail": "https://i.ytimg.com/vi/GQmG-DagSjE/hqdefault.jpg",
       "slug": "how-to-fix-a-machine-15-billion-miles-away"
@@ -500,5 +517,5 @@
       "slug": "youre-time-traveling-right-now-heres-the-proof"
     }
   ],
-  "updated": "2026-11-27T01:45:13+00:00"
+  "updated": "2026-11-27T12:24:13+00:00"
 }
