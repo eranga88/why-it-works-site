@@ -31,8 +31,53 @@
       "label": "How it works"
     }
   ],
-  "count": 30,
+  "count": 33,
   "videos": [
+    {
+      "id": "vS4kC_cBVKg",
+      "title": "Why does this feel like fire?..🔥",
+      "tags": [
+        "illusion",
+        "science"
+      ],
+      "published": "2026-11-28T12:00:39+00:00",
+      "description": "The thermal grill illusion makes your brain perceive burning heat by touching alternating warm and cool metal bars. Learn why this happens and how your senses can be tricked.\n\nThis breakdown explains the science behind the thermal grill, a phenomenon first described in 1896. When your skin contacts both temperatures simultaneously, the brain receives mixed signals that weaken the normal inhibitory effect of cold on pain. This creates a powerful sensation of heat that defies the actual temperature of the metal.\n\nUnderstanding how sensory perception works helps clarify why these conflicting inputs lead to such a convincing illusion. By examining the mechanics of nerve responses, we gain a clearer picture of how our bodies process complex environmental stimuli.\n\nSubscribe for weekly science breakdowns and let us know: have you ever experienced a sensation where your brain misidentified temperature?",
+      "type": "short",
+      "topic": "space",
+      "views": 20,
+      "url": "https://www.youtube.com/shorts/vS4kC_cBVKg",
+      "thumbnail": "https://i.ytimg.com/vi/vS4kC_cBVKg/hqdefault.jpg",
+      "slug": "why-does-this-feel-like-fire"
+    },
+    {
+      "id": "PHSJbYuAeiA",
+      "title": "Don't do this when your phone gets hot! 📱🛑",
+      "tags": [
+        "safety",
+        "techhacks"
+      ],
+      "published": "2026-11-28T12:00:32+00:00",
+      "description": "Is your phone heat normal or a sign of damage? Learn the difference between standard operation and potential hardware risks.\n\nThis breakdown explains why your device warms up during common tasks like gaming or fast charging. While some heat is expected, we examine the warning signs that indicate your phone is struggling to manage its internal temperature. Understanding these limits is essential for maintaining your device's longevity.\n\nWe also look at how external factors, such as leaving your phone on a car dashboard in the sun, contribute to overheating. When internal sensors detect excessive levels, you may experience screen dimming or charging stops to prevent permanent damage. While it is tempting to cool it down quickly, we explain why using a fridge or freezer is counterproductive and how to safely stabilize your device instead.\n\nSubscribe for weekly tech breakdowns and let us know: have you ever had your device display an overheating warning after leaving it in direct sunlight?",
+      "type": "short",
+      "topic": "phone",
+      "views": 7,
+      "url": "https://www.youtube.com/shorts/PHSJbYuAeiA",
+      "thumbnail": "https://i.ytimg.com/vi/PHSJbYuAeiA/hqdefault.jpg",
+      "slug": "dont-do-this-when-your-phone-gets-hot"
+    },
+    {
+      "id": "gUggP4qnSH0",
+      "title": "7 Hidden Phone Settings You Need to Change RIGHT NOW",
+      "tags": [],
+      "published": "2026-11-28T07:22:32+00:00",
+      "description": "Master your hidden settings to improve your phone usage. These adjustments help you control privacy, notifications, and app behavior.\n\nThis breakdown covers essential configuration changes for both iPhone and Android users. Whether you want to silence scam calls, lock private photos, or set messages to delete automatically, these tweaks allow you to customize your device for better daily efficiency. We also examine how to stop music playback after you fall asleep, ensuring your media habits do not drain your battery overnight.\n\nUnderstanding these mobile settings helps you maintain better control over your digital environment. By adjusting these parameters, you can secure your personal data and minimize unwanted interruptions. Applying these technical adjustments ensures your handset functions exactly how you prefer.\n\nSubscribe for weekly tech breakdowns and let us know: which of these features do you plan to enable on your device today?",
+      "type": "video",
+      "topic": "phone",
+      "views": 6,
+      "url": "https://www.youtube.com/watch?v=gUggP4qnSH0",
+      "thumbnail": "https://i.ytimg.com/vi/gUggP4qnSH0/hqdefault.jpg",
+      "slug": "7-hidden-phone-settings-you-need-to-change-right-now"
+    },
     {
       "id": "qLKk7Dq6NYQ",
       "title": "What happens when a self-driving car gets confused? ⚠️🤖",
@@ -45,7 +90,7 @@
       "description": "Driverless car technology relies on a precise fusion of sensors to navigate safely. Learn how these vehicles see the world.\n\nThis breakdown explains how a driverless car perceives its surroundings by coordinating data from cameras, LiDAR, and radar. By integrating information from these three distinct sources, the vehicle can accurately detect traffic lights, signs, lane lines, and obstacles. This system ensures the car maintains a clear understanding of its environment, even when operating in adverse weather conditions.\n\nWe examine how the combined input from these systems creates a reliable model of the road. Understanding the mechanics of how a driverless car identifies hazards provides a clearer picture of the current state of autonomous safety and navigation.\n\nSubscribe for weekly tech breakdowns and let us know: would you feel comfortable riding in a vehicle that relies entirely on sensor data to navigate?",
       "type": "short",
       "topic": "how",
-      "views": 61,
+      "views": 380,
       "url": "https://www.youtube.com/shorts/qLKk7Dq6NYQ",
       "thumbnail": "https://i.ytimg.com/vi/qLKk7Dq6NYQ/hqdefault.jpg",
       "slug": "what-happens-when-a-self-driving-car-gets-confused"
@@ -61,7 +106,7 @@
       "description": "Does eating turkey make you sleepy? We explain the science behind your post-meal nap and how to stay alert this holiday.\n\nMany people blame tryptophan for their post-meal drowsiness, but the truth is more complex. While this amino acid is present in poultry, it has to compete with other amino acids to reach the brain. This breakdown examines why the actual cause of that heavy feeling is often the large quantity of food, particularly carbohydrates, consumed during a big feast.\n\nTo avoid the mid-afternoon slump, we suggest focusing on smaller portions rather than avoiding specific proteins. Understanding how your body processes large meals can help you maintain your energy levels throughout the day. By managing your intake, you can enjoy the holiday meal without the immediate urge to head for the couch.\n\nSubscribe for weekly science breakdowns and let us know: do you usually feel tired after a large meal, or do you have a trick to stay awake?",
       "type": "short",
       "topic": "space",
-      "views": 40,
+      "views": 54,
       "url": "https://www.youtube.com/shorts/voK8pX5JDUg",
       "thumbnail": "https://i.ytimg.com/vi/voK8pX5JDUg/hqdefault.jpg",
       "slug": "why-youre-really-tired-after-dinner"
@@ -78,7 +123,7 @@
       "description": "Phone shutter mechanics explain why your device captures multiple frames to build a single, high-quality image. Learn how this process works.\n\nModern phone cameras continuously capture frames in the background while the app is open. Because sensors are often tiny, they rely on computational photography to compensate for hardware limitations. When you press the button, the system analyzes these frames and combines the best elements, pixel by pixel, to produce a final photo that looks much clearer than what the raw sensor could provide alone.\n\nUnderstanding how image processing works helps you get better results from your mobile photography. By knowing that your device is performing complex calculations during the shutter lag, you can better anticipate how to hold your device steady for the best output. This background processing is the primary reason your phone can handle challenging lighting conditions that would otherwise result in blurry or dark shots.\n\nSubscribe for weekly tech breakdowns and let us know: have you noticed your phone taking a moment to process images after you tap the shutter button?",
       "type": "short",
       "topic": "phone",
-      "views": 461,
+      "views": 519,
       "url": "https://www.youtube.com/shorts/hN43I9CeqGI",
       "thumbnail": "https://i.ytimg.com/vi/hN43I9CeqGI/hqdefault.jpg",
       "slug": "the-1-second-secret-to-perfect-phone-photos"
@@ -113,7 +158,7 @@
       "description": "Using AI for writing essays may weaken brain activity. Learn how relying on technology for schoolwork affects memory and learning.\n\nRecent studies show that students using tools like ChatGPT to draft essays struggle to recall the information they supposedly wrote. This breakdown examines the cognitive impact of outsourcing academic tasks to automated systems, specifically how it prevents the consolidation of new knowledge.\n\nWe also look at data from Turkey regarding AI in math practice. While students saw temporary score improvements, their performance plummeted once the assistance was removed. This pattern suggests that AI for students often replaces the critical thinking process rather than supporting it, leading to a long-term decline in independent problem solving skills.\n\nSubscribe for weekly tech breakdowns and let us know: have you noticed a change in your ability to retain information since you started using generative AI tools?",
       "type": "short",
       "topic": "ai",
-      "views": 103,
+      "views": 107,
       "url": "https://www.youtube.com/shorts/96afF78oQcs",
       "thumbnail": "https://i.ytimg.com/vi/96afF78oQcs/hqdefault.jpg",
       "slug": "the-hidden-cost-of-ai-in-education"
@@ -195,7 +240,7 @@
       "description": "Underwater data centers could change how we cool servers. Learn how Microsoft successfully submerged hardware to improve efficiency.\n\nIn 2018, Microsoft deployed 864 servers into the ocean off the coast of Scotland to test a radical approach to thermal management. This project aimed to solve the cooling challenges faced by land-based facilities, which often require significant energy and resources to maintain optimal temperatures. By leveraging the natural cold of the deep sea, the team sought to see if underwater data centers could operate more reliably than those in traditional environments.\n\nAfter two years of testing, the results showed that servers submerged in the ocean failed at a significantly lower rate than their counterparts on land. This breakdown explains the engineering success of this experiment and how the findings are currently being applied to improve modern server infrastructure. By analyzing the performance of this submerged hardware, we can better understand the future of sustainable cooling solutions for global cloud networks.\n\nSubscribe for weekly tech breakdowns and let us know: would you trust your personal data to be stored in an underwater facility?",
       "type": "short",
       "topic": "space",
-      "views": 71,
+      "views": 72,
       "url": "https://www.youtube.com/shorts/EALpgZCoTHo",
       "thumbnail": "https://i.ytimg.com/vi/EALpgZCoTHo/hqdefault.jpg",
       "slug": "what-happens-when-you-sink-a-server-farm"
@@ -211,7 +256,7 @@
       "description": "Common lightning myths are often dangerous. Learn the actual physics behind electrical storms to stay safe when weather turns.\n\nMany people believe that phones act as magnets for a strike, but this is only true if they are plugged into a wall outlet. We examine why common advice like crouching on the ground or relying on rubber tires for protection in a car is scientifically inaccurate. Understanding these misconceptions is essential for anyone who spends time outdoors.\n\nInstead of relying on outdated tips, focus on seeking shelter in a sturdy building or a fully enclosed metal vehicle. While the metal structure of a car provides safety by directing current around the exterior, it is not the tires that insulate you from the ground. By debunking these lightning myths, we can better prepare for severe weather events and avoid harmful behaviors.\n\nSubscribe for weekly science breakdowns and let us know: have you ever been taught safety advice that turned out to be incorrect?",
       "type": "short",
       "topic": "space",
-      "views": 225,
+      "views": 261,
       "url": "https://www.youtube.com/shorts/rtVfK1T0YXk",
       "thumbnail": "https://i.ytimg.com/vi/rtVfK1T0YXk/hqdefault.jpg",
       "slug": "why-rubber-tires-wont-save-you-from-lightning"
@@ -517,5 +562,5 @@
       "slug": "youre-time-traveling-right-now-heres-the-proof"
     }
   ],
-  "updated": "2026-11-27T23:28:17+00:00"
+  "updated": "2026-11-28T17:34:08+00:00"
 }
